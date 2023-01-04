@@ -1,7 +1,7 @@
 # Cash Register
  freeCodeCamp JavaScript project. 
 
-<h2>Description:</h2>
+<h2>Preview:</h2>
 
 ![alt text](https://github.com/bjoernarborge/cash_register/blob/main/preview1.png?raw=true)
 
